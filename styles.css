@@ -1,0 +1,19 @@
+h1 {
+    color: blueviolet;
+}
+
+p {
+    width: 50%;
+    color: brown;
+}
+
+.lista {
+    list-style-type: none;
+    padding: 0;
+}
+
+.lista li {
+    color: #fc7a01; 
+    font-size: 16px; 
+    margin: 5px 0;
+}
